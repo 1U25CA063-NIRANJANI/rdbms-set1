@@ -1,4 +1,4 @@
-use collegeDBbca;
+use collegeDB;
 alter TABLE student
 add(
 	Email VARCHAR(10),
