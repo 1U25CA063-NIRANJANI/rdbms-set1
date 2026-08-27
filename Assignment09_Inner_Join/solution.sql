@@ -1,4 +1,4 @@
-use collegeDBbca;
+use collegeDB;
 CREATE TABLE Department(
 	departmentID INT PRIMARY KEY,
     departmentName VARCHAR(50)
